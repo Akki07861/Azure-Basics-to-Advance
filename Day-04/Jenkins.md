@@ -88,8 +88,6 @@ Create First Admin User or Skip the step [If you want to use this Jenkins instan
 
 Jenkins Installation is Successful. You can now starting using the Jenkins 
 
-<img width="990" alt="Screenshot 2023-02-01 at 11 14 13 AM" src="https://github.com/Akki07861/images/blob/master/port.png">
-
 ## Install the Docker Pipeline plugin in Jenkins:
 
    - Log in to Jenkins.
