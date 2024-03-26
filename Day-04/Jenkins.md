@@ -59,8 +59,7 @@ sudo apt-get install jenkins
 - Add inbound traffic rules as shown in the image (you can just allow TCP 8080 as well, in my case, I allowed `All traffic`).
 
 <img width="1187" alt="Screenshot 2023-02-01 at 12 42 01 PM" src="https://user-images.githubusercontent.com/43399466/215975712-2fc569cb-9d76-49b4-9345-d8b62187aa22.png">
-
-<img width="1187" alt="Screenshot 2023-02-01 at 12 42 01 PM" src="https://github.com/Akki07861/images">
+<img width="1187" alt="Screenshot 2023-02-01 at 12 42 01 PM" src="https://github.com/Akki07861/images/blob/master/port.png">
 ### Login to Jenkins using the below URL:
 
 http://<ec2-instance-public-ip-address>:8080    [You can get the ec2-instance-public-ip-address from your AWS EC2 console page]
