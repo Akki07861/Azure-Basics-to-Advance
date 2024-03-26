@@ -11,7 +11,7 @@ We are going to install jenkins on the Azure and AWS. which is basic task for De
 - Launch instances/vm
 
 <img width="994" alt="Screenshot 2023-02-01 at 12 37 45 PM" src="https://user-images.githubusercontent.com/43399466/215974891-196abfe9-ace0-407b-abd2-adcffe218e3f.png">
-<img width="994" alt="Screenshot 2023-02-01 at 12 37 45 PM" src="C:\Users\ws_htu1377\Downloads\jenkins.png">
+<img width="994"  src="C:\Users\ws_htu1377\Downloads\jenkins.png">
 
 after that ssh to your instance/vm's
 ```
