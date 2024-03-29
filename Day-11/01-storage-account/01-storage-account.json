@@ -6,11 +6,11 @@
     "variables": {},
     "resources": [
         {
-            "name": "abhioshekveeramalla11232",
+            "name": "akbarshaikh2123",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2023-01-01",
             "tags": {
-                "displayName": "abhioshekveeramalla11232"
+                "displayName": "akbarshaikh0876"
             },
             "location": "[resourceGroup().location]",
             "kind": "StorageV2",
