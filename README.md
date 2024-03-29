@@ -1,4 +1,4 @@
-# Azure Zero to Hero Course
+# Azure Basics to Advance
 ## If you like the content, Don't forget to give this repository a :star:
 
 ## Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
@@ -135,6 +135,10 @@
 - Secrets Management with Key Vault
 - Security Best Practices
 - **PROJECT** - Integrate Azure Keyvault with Secrets Store CSI Driver
+
+
+``` to be added in next few days
+```
 
 ## Day 21: Azure Serverless
 - Understanding Azure Serverless Services
